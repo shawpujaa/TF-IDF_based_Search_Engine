@@ -1,5 +1,5 @@
 {
-  "name": "tfidf_based_web_crawler",
+  "name": "tfidf_based_search_engine",
   "version": "1.0.0",
   "description": "Problem Search Engine for Leetcode and CSES problems",
   "main": "app.js",
