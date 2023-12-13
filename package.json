@@ -1,0 +1,27 @@
+{
+  "name": "tfidf_based_web_crawler",
+  "version": "1.0.0",
+  "description": "Problem Search Engine for Leetcode and CSES problems",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawpujaa/TF-IDF_based_Search_Engine.git"
+  },
+  "author": "Puja Kumari Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawpujaa/TF-IDF_based_Search_Engine/issues"
+  },
+  "homepage": "https://github.com/shawpujaa/TF-IDF_based_Search_Engine#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "keyword-extractor": "^0.0.25",
+    "nodemon": "^3.0.1"
+  }
+}
